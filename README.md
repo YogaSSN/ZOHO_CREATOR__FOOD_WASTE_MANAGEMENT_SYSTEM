@@ -157,6 +157,36 @@ Engineering Student | Embedded Systems Enthusiast
 
 ## 📷 Application Screenshots
 
-(Add your project screenshots here)
+---
+
+## 📷 Application Screenshots
+
+### 🏠 Dashboard Overview
+The main dashboard provides real-time analytics including average quantity prepared, served, wasted, and total cost. It also displays meal-wise statistics and graphical insights.
+
+![Dashboard](Dashboard.png)
+
+---
+
+### 📝 Daily Food Entry Form
+This form allows canteen staff to record daily meal data including quantity prepared, served, and wasted. Waste is automatically calculated using system formulas.
+
+![Daily Food Entry Form](Form.png)
+
+---
+
+### 📊 Waste Report View
+This section displays all recorded food entries with detailed breakdown of preparation, serving, and waste quantities.
+
+![Waste Report](Report.png)
+
+---
+
+### 📈 Daily Waste Summary
+Provides aggregated statistics such as total prepared, total served, total wasted, and waste percentage for better decision-making.
+
+![Daily Waste Summary](Summary.png)
+
+---
 
 ---
