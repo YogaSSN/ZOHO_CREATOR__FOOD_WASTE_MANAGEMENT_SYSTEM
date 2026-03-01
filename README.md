@@ -146,6 +146,13 @@ Waste % = (Total Wasted / Total Prepared) × 100
 - Mobile application deployment
 
 ---
+## 🌐 Live Application
+
+🔗 *Zoho Live Application:*  
+https://creatorapp.zoho.in/yogadharshan2410483_ssn/daily-food-management#Section_1
+
+> Note: The live application requires Zoho login access.  
+> Screenshots below demonstrate full functionality.
 
 ## 📌 Author
 
@@ -155,9 +162,6 @@ Engineering Student | FrontEnd Developer
 
 ---
 
-## 📷 Application Screenshots
-
----
 
 ## 📷 Application Screenshots
 
