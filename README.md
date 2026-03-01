@@ -149,7 +149,7 @@ Waste % = (Total Wasted / Total Prepared) × 100
 
 ## 📌 Author
 
-Aakash Moorthy  
+Yogadharshan K 
 SSN College of Engineering  
 Engineering Student | Embedded Systems Enthusiast
 
